@@ -1,0 +1,2 @@
+linux git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git v4.4 bcm2835_defconfig
+buildroot git://git.buildroot.net/buildroot master 3fc77e5f81906d774b arm/arm1176jzf-s/eabihf/gcc_4.9.x/uclibc/busybox
